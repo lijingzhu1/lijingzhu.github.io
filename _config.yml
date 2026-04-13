@@ -44,7 +44,7 @@ kramdown:
   hard_wrap: false
   auto_ids: true
 
-# Collections (简化但保留必要结构)
+# Collections
 collections:
   publications:
     output: true
