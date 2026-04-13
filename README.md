@@ -114,7 +114,6 @@ Purpose:
 
 **Choose a professional username.** The GitHub username becomes part of the public website address and public online identity. For a professional portfolio site, the username should be formal, clear, and appropriate for use on a resume, CV, or portfolio.
 
-![GitHub account creation form](week14/images/Signup.png)
 
 ---
 
