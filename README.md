@@ -200,7 +200,11 @@ GitHub = collaboration platform
 
 ## 5. Step 2: Copy the Course Website Template
 
-The website should begin from the instructor-provided repository template, not from a blank repository.
+Course template repository:
+
+```text
+https://github.com/lijingzhu1/lijingzhu1.github.io
+```
 
 Procedure:
 1. Open the instructor-provided website repository
