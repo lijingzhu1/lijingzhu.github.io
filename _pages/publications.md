@@ -3,12 +3,7 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
-
-This is a manual Markdown version of the publications page. It is useful when you want full control over formatting, ordering, notes, and figures for each paper.
-
 For a fuller and more frequently updated record, please visit my [Google Scholar](https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en) profile.
-
-If you use this Markdown page, do not keep another page with the same permalink `/publications/`.
 
 ## 2025
 
@@ -18,9 +13,20 @@ If you use this Markdown page, do not keep another page with the same permalink 
 **Venue:** *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)*, 2025  
 **Status:** Accepted
 
-![Overall model figure for ETT-CKGE]({{ '/images/overall model.png'}})
-
-*Upload the model figure to `images/publications/ett-ckge-overview.png`.*
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding-right: 0.75rem;">
+      <img src="{{ '/images/tt_mrr_m.png' | relative_url }}" alt="Comparison efficiency for ETT-CKGE" style="width: 100%; border-radius: 8px;" />
+    </td>
+    <td style="width: 50%; vertical-align: top; padding-left: 0.75rem;">
+      <img src="{{ '/images/ett_ckge_overall_figure.png' | relative_url }}" alt="Overall model figure for ETT-CKGE" style="width: 100%; border-radius: 8px;" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><em>Comparison Table</em></td>
+    <td style="text-align: center;"><em>Overall Model Figure</em></td>
+  </tr>
+</table>
 
 ---
 
@@ -30,9 +36,8 @@ If you use this Markdown page, do not keep another page with the same permalink 
 **Venue:** *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)*, Boise, ID, USA, 2025  
 **Status:** To appear
 
-![Overall model figure for Temporal GNN Attack paper]({{ '/images/publications/temporal-gnn-attack-overview.png' | relative_url }})
+![Overall model figure for Temporal GNN Attack paper]({{ '/images/HIA_overall.png' | relative_url }})
 
-*Upload the model figure to `images/publications/temporal-gnn-attack-overview.png`.*
 
 ---
 
@@ -44,7 +49,7 @@ If you use this Markdown page, do not keep another page with the same permalink 
 
 ![Overall model figure for E2CB2former]({{ '/images/publications/e2cb2former-overview.png' | relative_url }})
 
-*Upload the model figure to `images/publications/e2cb2former-overview.png`.*
+
 
 ## 2024
 
@@ -54,9 +59,8 @@ If you use this Markdown page, do not keep another page with the same permalink 
 **Venue:** *IEEE International Conference on Big Data (IEEE Big Data)*, 2024  
 **Status:** Accepted
 
-![Overall model figure for FMR]({{ '/images/publications/fmr-overview.png' | relative_url }})
+![Overall model figure for FMR]({{ '/images/fmr_overall.png' | relative_url }})
 
-*Upload the model figure to `images/publications/fmr-overview.png`.*
 
 ---
 
@@ -78,24 +82,6 @@ If you use this Markdown page, do not keep another page with the same permalink 
 **Venue:** *2023 IEEE International Conference on Data Mining Workshops (ICDMW)*, pages 1186-1193. IEEE, 2023  
 **Status:** Published
 
-![Overall model figure for SKGHOI]({{ '/images/publications/skghoi-overview.png' | relative_url }})
+![Overall model figure for SKGHOI]({{ '/images/overall_model.pdf' | relative_url }})
 
-*Upload the model figure to `images/publications/skghoi-overview.png`.*
 
----
-
-## Suggested Next Step
-
-For each paper, you can later add:
-
-- PDF link
-- code link
-- project page link
-- DOI link
-- slide link
-
-Recommended image folder:
-
-```text
-images/publications/
-```
